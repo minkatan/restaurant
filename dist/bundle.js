@@ -170,26 +170,6 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
-/***/ "./src/assets/facebook.svg":
-/*!*********************************!*\
-  !*** ./src/assets/facebook.svg ***!
-  \*********************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"57ba65d1dba313b7a817.svg\";\n\n//# sourceURL=webpack://restaurant/./src/assets/facebook.svg?");
-
-/***/ }),
-
-/***/ "./src/assets/instagram.svg":
-/*!**********************************!*\
-  !*** ./src/assets/instagram.svg ***!
-  \**********************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("module.exports = __webpack_require__.p + \"1bca5492bc1db691ff5a.svg\";\n\n//# sourceURL=webpack://restaurant/./src/assets/instagram.svg?");
-
-/***/ }),
-
 /***/ "./src/assets/bakery.jpeg":
 /*!********************************!*\
   !*** ./src/assets/bakery.jpeg ***!
@@ -230,6 +210,16 @@ eval("module.exports = __webpack_require__.p + \"cfb96a4ae640fe6b9766.png\";\n\n
 
 /***/ }),
 
+/***/ "./src/assets/facebook.svg":
+/*!*********************************!*\
+  !*** ./src/assets/facebook.svg ***!
+  \*********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"54b6ed1796ae51e7991a.svg\";\n\n//# sourceURL=webpack://restaurant/./src/assets/facebook.svg?");
+
+/***/ }),
+
 /***/ "./src/assets/img_01.png":
 /*!*******************************!*\
   !*** ./src/assets/img_01.png ***!
@@ -237,6 +227,16 @@ eval("module.exports = __webpack_require__.p + \"cfb96a4ae640fe6b9766.png\";\n\n
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("module.exports = __webpack_require__.p + \"4109355dd78bc58b188d.png\";\n\n//# sourceURL=webpack://restaurant/./src/assets/img_01.png?");
+
+/***/ }),
+
+/***/ "./src/assets/instagram.svg":
+/*!**********************************!*\
+  !*** ./src/assets/instagram.svg ***!
+  \**********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"7d97391465d60f2909c4.svg\";\n\n//# sourceURL=webpack://restaurant/./src/assets/instagram.svg?");
 
 /***/ }),
 
